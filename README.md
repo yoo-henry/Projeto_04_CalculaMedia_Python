@@ -1,7 +1,7 @@
 
 # 📘 Calculadora de Média Escolar
 
-Um mini-projeto em **Python** para calcular a média das **4 notas bimestrais** de um estudante. Feito para ensino médio, com linguagem acessível e foco em praticar **entrada de dados**, **operações matemáticas** e **exibição formatada**.
+Um mini-projeto em **Python** para calcular a média das **4 notas bimestrais** de um estudante. Foco em praticar **entrada de dados**, **operações matemáticas** e **exibição formatada**.
 
 ---
 
@@ -40,8 +40,8 @@ Pré-requisito: **Python 3.8+**
 
 1) Clone este repositório ou baixe os arquivos.
 ```bash
-git clone https://github.com/seu-usuario/calculadora-media-escolar.git
-cd calculadora-media-escolar
+git clone https://github.com/seu-usuario/projeto-fabrica-1.git
+cd projeto-fabrica-1
 ```
 
 2) Rode o programa:
@@ -82,7 +82,7 @@ python -m unittest
 
 ## 📂 Estrutura do projeto
 ```
-calculadora-media-escolar/
+projeto-fabrica-1/
 ├─ media.py
 ├─ README.md
 ├─ tests/
