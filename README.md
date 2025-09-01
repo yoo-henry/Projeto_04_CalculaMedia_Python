@@ -12,7 +12,7 @@ Um mini-projeto em **Python** para calcular a média das **4 notas bimestrais** 
 
 ---
 
-## 📝 Enunciado (versão estilizada)
+## 📝 Enunciado
 Você foi convidado a criar uma **Calculadora de Média Escolar**. Seu programa deve:
 1. Pedir as **4 notas bimestrais** do estudante (valores de 0 a 10).
 2. Calcular a **média aritmética**.
